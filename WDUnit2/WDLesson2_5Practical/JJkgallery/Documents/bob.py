@@ -1,0 +1,10 @@
+import turtle
+bob = turtle.Turtle()
+bob.forward(100)
+bob.left(90)
+bob.right(154)
+bob.forward(57)
+bob.left(67)
+bob.right(41)
+bob.left (47)
+bob.forward (70)
